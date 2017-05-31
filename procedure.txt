@@ -1,0 +1,6 @@
+Class TestingGit{
+Context cx;
+TestingGit(Context ctx){
+cx = ctx;
+}
+}
