@@ -1,1 +1,4 @@
-print("i'm the feature")
+print("i'm the feature");
+for {
+somefunc();
+}
