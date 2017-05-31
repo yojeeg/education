@@ -2,3 +2,7 @@ print("i'm the feature");
 for {
 somefunc();
 }
+switch (a){
+case 1: print("good");
+case 2: print("bad");
+}
