@@ -1,1 +1,5 @@
 print("i'm the feature")
+switch (a){
+case 1: print("good");
+case 2: print("bad");
+}
